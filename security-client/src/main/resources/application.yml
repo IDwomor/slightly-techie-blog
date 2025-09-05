@@ -6,11 +6,9 @@ spring:
     name: security-client
 
   datasource:
-    #url: jdbc:postgresql://aws-1-eu-west-2.pooler.supabase.com:5432/postgres?sslmode=require
-    #url: jdbc:postgresql://aws-1-eu-north-1.pooler.supabase.com:5432/postgres?sslmode=require
-    url: jdbc:postgresql://aws-1-eu-north-1.pooler.supabase.com:6543/postgres?sslmode=require
-    username: postgres.girhjbzrxqwvjjrsanbn
-    password: Dwomor@22#Smoke@22#
+    url: ${DB_URL}
+    username: ${DB_USERNAME}
+    password: ${DB_PASSWORD}
     driver-class-name: org.postgresql.Driver
 
   jpa:
@@ -22,7 +20,8 @@ spring:
         dialect: org.hibernate.dialect.PostgreSQLDialect
 
 jwt:
-  secret: QNRqNJyrJmbHWg1SJt1RsXBfZyC/YfQ0j38bfMZ1D54
+  #secret: QNRqNJyrJmbHWg1SJt1RsXBfZyC/YfQ0j38bfMZ1D54
+  secret: ${JWT_SECRET}
   expiration: 3600000
 
 eureka:

@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="483c145e-6833-4b4f-b643-7e6575aaf22c" name="Changes" comment="" />
+    <list default="true" id="483c145e-6833-4b4f-b643-7e6575aaf22c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.env" beforeDir="false" afterPath="$PROJECT_DIR$/blog/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/blog/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/src/main/java/com/slightly_techie/blog/controller/PostController.java" beforeDir="false" afterPath="$PROJECT_DIR$/blog/src/main/java/com/slightly_techie/blog/controller/PostController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/blog/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/security-client/.env" beforeDir="false" afterPath="$PROJECT_DIR$/security-client/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/security-client/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/security-client/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/security-client/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/security-client/src/main/resources/application.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +27,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -41,25 +53,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.BlogApplication.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SecurityClientApplication.executor&quot;: &quot;Run&quot;,
-    &quot;Maven.EurekaServerApplication.executor&quot;: &quot;Run&quot;,
-    &quot;Maven.SecurityClientApplication.executor&quot;: &quot;Run&quot;,
-    &quot;Maven.api-gateway [install,--non-recursive].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.blog [install,--non-recursive].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.eureka-server [install,--non-recursive].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.security-client [install,--non-recursive].executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/dwomorlivingstone/Desktop/slightly_techie&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.runner&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BlogApplication.executor": "Run",
+    "Application.SecurityClientApplication.executor": "Run",
+    "Maven.EurekaServerApplication.executor": "Run",
+    "Maven.SecurityClientApplication.executor": "Run",
+    "Maven.api-gateway [install,--non-recursive].executor": "Run",
+    "Maven.blog [install,--non-recursive].executor": "Run",
+    "Maven.eureka-server [install,--non-recursive].executor": "Run",
+    "Maven.security-client [install,--non-recursive].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/dwomorlivingstone/Desktop/slightly_techie",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.runner"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="com.slightly_techie.blog.service" />

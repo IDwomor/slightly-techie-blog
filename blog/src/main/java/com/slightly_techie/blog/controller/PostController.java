@@ -51,6 +51,7 @@ public class PostController {
 
     // 👀 Both ADMIN and READER can list posts
     @PreAuthorize("hasAnyRole('ADMIN', 'READER')")
+    //@PreAuthorize("hasAnyAuthority('ADMIN', 'READER')")
     @GetMapping
     public ResponseEntity<Page<PostResponse>> list(
             @RequestParam(defaultValue = "0") int page,
