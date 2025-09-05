@@ -6,13 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="483c145e-6833-4b4f-b643-7e6575aaf22c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/.env" beforeDir="false" afterPath="$PROJECT_DIR$/blog/.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/blog/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/src/main/java/com/slightly_techie/blog/controller/PostController.java" beforeDir="false" afterPath="$PROJECT_DIR$/blog/src/main/java/com/slightly_techie/blog/controller/PostController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/blog/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/security-client/.env" beforeDir="false" afterPath="$PROJECT_DIR$/security-client/.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/security-client/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/security-client/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/security-client/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/security-client/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
